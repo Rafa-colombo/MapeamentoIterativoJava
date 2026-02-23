@@ -7,7 +7,7 @@
 ## 📖 Sobre o Projeto
 Este repositório contém o projeto de conclusão (Capstone) do curso **Object-Oriented Programming in Java**, oferecido pela **Universidade da Califórnia, San Diego (UCSD)**. 
 
-Trata-se de uma aplicação interativa de visualização geoespacial desenvolvida em Java. A aplicação lê feeds de dados reais (RSS) de terremotos ao redor do globo e os renderiza visualmente em um mapa interativo, permitindo ao usuário filtrar eventos por magnitude, verificar o raio de ameaça de tsunamis em oceanos ou em terra firme, e visualizar rotas e aeroportos.
+Trata-se de uma aplicação interativa de visualização geoespacial desenvolvida em Java. A aplicação lê feeds de dados reais (RSS) de terremotos ao redor do globo e os renderiza visualmente em um mapa interativo, permitindo ao usuário filtrar eventos por magnitude, verificar o raio de ameaça de tsunamis em oceanos ou em terra firme.
 
 ## 🧠 Arquitetura e Lógica Aplicada (POO)
 O principal objetivo deste projeto não é apenas exibir o mapa, mas sim demonstrar o domínio sólido dos pilares da **Programação Orientada a Objetos**:

@@ -29,7 +29,7 @@ O principal objetivo deste projeto não é apenas exibir o mapa, mas sim demonst
 
 ### 🗺️ Demonstração Visual do Mapa
 
-![Interface Gráfica do Mapa de Terremotos](assets/mapa_rodando.png)
+![Interface Gráfica do Mapa de Terremotos](assets/image.png)
 
 *Figura 1: Interface gráfica renderizando os terremotos globais e os marcadores dinâmicos através do Unfolding Maps.*
 
